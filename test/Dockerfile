@@ -1,4 +1,4 @@
-FROM ubuntu:v1
+FROM ubuntu:22.04
 
 # Set the working directory in the image
 WORKDIR /app
